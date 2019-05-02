@@ -1,5 +1,5 @@
 # Data-Science-Lifecycle-Lab
-Build a full data science lifecycle example using Kafka, PostgreSQL and kNN
+## Build a full data science lifecycle example using Kafka, PostgreSQL and kNN
 
 Presented at the May 1, 2019 STL Big Data - Innovation, Data Engineering, Analytics Group Meetup: Data Engineering and the Data Science Lifecycle
 https://www.meetup.com/St-Louis-Big-Data-IDEA/events/257350394/
